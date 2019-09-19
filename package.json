@@ -1,7 +1,10 @@
 {
-  "name": "@jamescodes/send-request",
-  "version": "1.0.0",
+  "name": "send-request",
+  "version": "1.0.1",
   "description": "A simple fetch wrapper that supports query params",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/@jbarzegar"
+  },
   "module": "dist/sendRequest.modern.js",
   "main": "dist/sendRequest.js",
   "types": "dist/index.d.ts",
