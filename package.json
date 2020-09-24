@@ -14,7 +14,7 @@
     "build": "microbundle src/index.ts"
   },
   "dependencies": {
-    "querystringify": "^2.1.1"
+    "querystringify": "^2.2.0"
   },
   "devDependencies": {
     "ava": "^2.4.0",
